@@ -1,2 +1,1 @@
-
-A fun little challenge to build a beautiful looking stopwatch in **15 min**
+A react stopwatch with an Interactive and responsive UI with a start atop and reset option
